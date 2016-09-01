@@ -1,4 +1,4 @@
-window.THREE = require('three.js')
+window.THREE = require('three')
 const Looker = require('./lib/look-at')
 const objMtlLoader = require('./lib/loader')
 
