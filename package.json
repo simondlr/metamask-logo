@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "brfs": "^1.4.2",
-    "three.js": "git://github.com/mrdoob/three.js.git#6e8b56b4ed2d2f6698bb5e9c44febbb07e47a355"
+    "three": "0.79.0"
   },
   "browserify": {
     "transform": [
